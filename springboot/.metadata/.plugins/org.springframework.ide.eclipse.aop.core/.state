@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="demo"/>
+<aop-project name="soap-course-management"/>
+<aop-project name="restapi"/>
+<aop-project name="restful-web-services"/>
+</aop-reference-model>

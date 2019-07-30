@@ -1,0 +1,22 @@
+package com.pradeep.course_details;
+
+public class test {
+	
+	public int desmo() {
+		try {
+			return 1;
+		}catch (Exception e) {
+			// TODO: handle exception
+		}finally {
+			return 0;
+		}
+	}
+
+	
+	public static void main(String agts[]) {
+		try {
+			
+		}
+	}
+	
+}

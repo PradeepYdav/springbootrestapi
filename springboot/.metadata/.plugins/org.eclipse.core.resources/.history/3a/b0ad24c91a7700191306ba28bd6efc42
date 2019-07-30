@@ -1,0 +1,5 @@
+package com.pradeep.rest.webservices.restfulwebservices;
+
+public class SwaggerConfig {
+
+}

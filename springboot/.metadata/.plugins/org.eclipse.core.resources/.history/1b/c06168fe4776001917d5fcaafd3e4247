@@ -1,0 +1,16 @@
+package com.pradeep.rest.webservices.restfulwebservices.user;
+
+import java.util.List;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class UserResource {
+
+	
+	// retervive ALL user
+	
+	public List<User> reteriveAllUsers() {
+		retun  new 
+	}
+}

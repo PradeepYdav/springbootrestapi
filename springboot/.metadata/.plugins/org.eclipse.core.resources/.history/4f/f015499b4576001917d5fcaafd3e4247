@@ -1,0 +1,11 @@
+package com.pradeep.rest.webservices.restfulwebservices.user;
+
+import java.util.Date;
+
+public class User {
+	
+	public int id;
+	public int name;
+	public Date age;
+
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourceDeatilsRequest xmlns="http://www.pradeep.com/course-details"  
+xsi:schemaLocation="http://www.pradeep.com/course-details course-details.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <id>12</id>
+</GetCourceDeatilsRequest>

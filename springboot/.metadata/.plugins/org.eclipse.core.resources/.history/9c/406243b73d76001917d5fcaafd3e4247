@@ -1,0 +1,17 @@
+package com.pradeep.rest.webservices.restfulwebservices;
+
+import org.springframework.web.bind.annotation.RestController;
+
+//controller
+@RestController
+public class HelloWorld {
+	
+	//type
+	//uri
+	//method
+	
+	public String helloWorld() {
+		return "Hello World";
+	}
+
+}
